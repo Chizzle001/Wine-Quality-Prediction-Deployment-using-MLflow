@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Wine-Quality-Prediction-Deployment-using-MLflow"
 AUTHOR_USER_NAME = "Chizzle001"
-SRC_REPO = "End-to-End-projects"
+SRC_REPO = "WineQualityPred"
 AUTHOR_EMAIL = "chirag1346@gmail.com"
 
 
