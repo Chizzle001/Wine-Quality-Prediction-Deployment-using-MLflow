@@ -5,6 +5,7 @@ import pandas as pd
 from WineQualityPred.pipeline.prediction import PredictionPipeline
 
 
+
 app = Flask(__name__)
 
 @app.route('/',methods=['GET'])  # route to display the home page
